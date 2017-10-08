@@ -1,0 +1,28 @@
+.container{
+
+	width:80%;;
+	margin:auto;
+	border-radius:20px;
+	border:solid 2px #ccc;
+	font-family:"Trebuchet MS";
+	text-align:center;
+	background-color:#a8ddff;
+}
+
+h1{
+	padding-left:10px;
+	padding-right:10px;
+	border-bottom:2px solid #ccc;
+	margin-bottom:10px;
+}
+
+table{	
+	margin:auto;
+	border:black 1px solid;
+	border-collapse:collapse;
+	margin-bottom:10px;
+}
+
+td,th{
+border:black 1px solid;
+}
